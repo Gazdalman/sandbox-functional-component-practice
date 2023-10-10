@@ -1,0 +1,9 @@
+.type {
+  background-color: rgb(255, 152, 169);
+  color: white;
+}
+
+.move {
+  background-color: white;
+  color: rgb(255, 152, 169);
+}
